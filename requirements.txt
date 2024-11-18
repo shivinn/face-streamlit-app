@@ -1,8 +1,6 @@
-facenet-pytorch
-mtcnn
-torch 
-torchvision 
-numpy 
-scipy
-streamlit 
+streamlit
+face_recognition
+Pillow
+PyPDF2
 pdf2image
+numpy
