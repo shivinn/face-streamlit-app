@@ -1,0 +1,8 @@
+facenet-pytorch
+mtcnn
+torch 
+torchvision 
+numpy 
+scipy
+streamlit 
+pdf2image
